@@ -9,7 +9,9 @@ Each sku product have a unique ``storeKeyPDP``
 Have a look on this tokopedia sku link : https://www.tokopedia.com/onemed/aseptic-gel-500ml-refill-onemed
 
 It contains : (tld/domain)/(nama_toko)/(storeKeyPDP).
-Then, you could input it on txt file separately.
+Then, you could input it on txt file separately. 
+
+For my own purpose, I prefer to input it manually. You could modify it (e.g add some split string from url, so you only provide a link on .txt) based on your needs.
 
 For mass query, i suggest you to use Nord-vpn to prevent blocking.
 I used Nord-vpn + combined with another script https://github.com/kboghe/NordVPN-switcher that helps you to switch to another network after several query.
